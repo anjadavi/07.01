@@ -1,1 +1,0 @@
-const builtParagraf = document.querySelector("#builtParagraf")
