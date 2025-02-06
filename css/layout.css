@@ -132,6 +132,10 @@ h2 {
   font-weight: bold;
 }
 
+.overwrite {
+  visibility: hidden;
+}
+
 .link-sti {
   padding: 10px 20px;
   font-size: 14px;
